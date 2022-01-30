@@ -463,7 +463,27 @@ textarea.form-control {
     padding: 250px 0 150px;
     overflow: hidden;
   }
+  .page-title-alt .bg-shape-6 {
+    display: none!important;
+  }
+  .page-title-alt .bg-shape-3 {
+    display: none!important;
+  }
+  .page-title .bg-shape-7 {
+    display: none!important;
+  }
+  .page-title .bg-shape-5 {
+    display: none!important;
+  }
+  .labelpadding {
+    padding: 10px 20px !important;
+  }
+  .icon-bg {
+  height: 50px;
+  width: 50px;
 }
+}
+
 .hero-area h1 {
   position: relative;
   z-index: 2;
